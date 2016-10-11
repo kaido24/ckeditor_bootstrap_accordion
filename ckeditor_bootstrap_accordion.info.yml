@@ -1,0 +1,15 @@
+name: CKEditor Bootstrap Accordion 
+type: module
+description: Allows users to create Bootstrap 3 collapse/accordion content using CKEditor.
+# core: 8.x
+package: CKEditor
+# version: '8.x-1.0'
+libraries:
+  - ckeditor_bootstrap_accordion/semantic_tabs
+dependencies:
+  - ckeditor
+# Information added by Drupal.org packaging script on 2016-06-19
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'ckeditor_bootstrap_accordion'
+datestamp: 1466324343
